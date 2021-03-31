@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="600c3f4a-2ddb-4992-b3dd-915e58923b91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qVjNCgOAFKTW8sArKcsuEKdgv3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="600c3f4a-2ddb-4992-b3dd-915e58923b91" name="Default Changelist" comment="" />
+      <created>1617171608934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617171608934</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617172049451">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="308" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027/347.-1080.1280.680@0.0.1707.1027" timestamp="1617172049451" />
+    <state x="253" y="120" width="1200" height="787" key="AVDManager" timestamp="1617178942640">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="253" y="120" width="1200" height="787" key="AVDManager/0.0.1707.1027/347.-1080.1280.680@0.0.1707.1027" timestamp="1617178942640" />
+    <state x="355" y="159" key="SettingsEditor" timestamp="1617172663363">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="355" y="159" key="SettingsEditor/0.0.1707.1027/347.-1080.1280.680@0.0.1707.1027" timestamp="1617172663363" />
+  </component>
+</project>
